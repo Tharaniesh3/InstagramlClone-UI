@@ -1,7 +1,5 @@
 # InstagramlClone-UI
-### Heyyo Iam [Tharaniesh](https://www.instagram.com/__thaxx__/). In this project i have created exact UI of Instagram using Flutter😊.
-.  
-
+### Heyyo Iam [Tharaniesh](https://www.instagram.com/__thaxx__/). In this project i have created exact UI and prototype of Instagram using Flutter😊.
 
 ## <u>Social Profiles</u> :
 [Instagram](https://www.instagram.com/__thaxx__/)
