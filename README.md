@@ -4,7 +4,7 @@
 
 Have a look on it. https://github.com/Tharaniesh3/InstagramlClone-UI
 ## THIS IS HOW IT LOOKS LIKE
- ![alt text](https://github.com/Tharaniesh3/InstagramlClone-UI/blob/main/appdemo.jpeg| width=50)
+ ![alt text](https://github.com/Tharaniesh3/InstagramlClone-UI/blob/main/appdemo.jpeg | width=50)
 
 ## <u>Social Profiles</u> :
 [Instagram](https://www.instagram.com/__thaxx__/)
