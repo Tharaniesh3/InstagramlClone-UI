@@ -1,7 +1,7 @@
 # InstagramlClone-UI
 ### Heyyo Iam [Tharaniesh](https://www.instagram.com/__thaxx__/). In this project i have created exact UI and prototype of Instagram using Flutter😊.
 
-
+![igclone](https://raw.githubusercontent.com/Tharaniesh3/InstagramlClone-UI/main/app_demo.png
 Have a look on it. https://github.com/Tharaniesh3/InstagramlClone-UI
 
 ## <u>Social Profiles</u> :
